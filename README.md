@@ -4,7 +4,7 @@ This repository contains certificates I have earned through various technical wo
 
 ## 🛡️ Cybersecurity
 
-- [SAT Camp Certificate (2024)](./CyberSecurity/SAT-Kampi-2025.pdf)  
+- [SAT Camp Certificate (2025)](./CyberSecurity/SAT-Kampi-2025.pdf)  
   🔹 **Event:** Winter Camp by Siber Anadolu Toplulukları  
   🔹 **Program:** Malware Analyst Track  
   🔹 **Role:** Participant  
