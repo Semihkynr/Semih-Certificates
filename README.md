@@ -8,7 +8,7 @@ This repository contains certificates I have earned through various technical wo
   🔹 **Event:** Winter Camp by Siber Anadolu Toplulukları  
   🔹 **Program:** Malware Analyst Track  
   🔹 **Role:** Participant  
-  🔹 **Date:** 2025
+  🔹 **Date:** 2025  
   🔹 **Note:** Organized by Istanbul Technical University (ITU) Cybersecurity Community.
 
 ---
